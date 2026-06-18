@@ -1,0 +1,13 @@
+Location,Cu_exceeds,Pb_exceeds,Zn_exceeds,Cd_exceeds_conservative,Cd_exceeds_upper,Hg_exceeds
+IN1,False,False,False,True,True,False
+IN2,False,False,False,True,True,False
+IN3,False,False,False,True,False,False
+IN4,False,False,False,True,False,False
+IN5,False,False,False,True,False,False
+IN6,False,False,False,True,False,False
+IN7,False,False,False,False,False,False
+IN8,False,False,False,False,False,False
+IN9,False,False,False,False,False,False
+IN10,False,False,False,False,False,False
+IN11,False,False,False,False,False,False
+IN12,False,False,False,False,False,False
