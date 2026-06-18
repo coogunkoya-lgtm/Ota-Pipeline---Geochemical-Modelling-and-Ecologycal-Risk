@@ -50,7 +50,7 @@ python -m pytest tests/test_pipeline.py -v
 
 25 unit tests validate every module's output against the manuscript's
 published tables. See `VALIDATION_NOTES.md` for the full validation
-history, including several discrepancies between earlier manuscript
+history, including discrepancies between earlier manuscript
 drafts and the underlying data that were identified and corrected during
 this pipeline's development.
 
@@ -65,10 +65,10 @@ This codebase was reconstructed from the manuscript's methodology
 description rather than recovered from original project files (the
 original scripts were not retained). Every module was independently
 validated against the manuscript's own published tables before being
-considered correct. Three genuine discrepancies were found between the
+considered correct. Three discrepancies were found between the
 manuscript's narrative claims and what the underlying Table 1 data
 actually supports; all three were investigated, confirmed, and corrected
-in the manuscript itself (not papered over in the code) before this
+in the manuscript itself before this
 repository was finalised. Full details are in `VALIDATION_NOTES.md`.
 
 ## License
